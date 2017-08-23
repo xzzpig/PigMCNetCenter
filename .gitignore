@@ -1,0 +1,11 @@
+/.gradle/
+/bin/
+/build/
+/client/
+/logs/
+/gradle/
+/Notice.txt
+/.classpath
+/.project
+/clientindex.json
+/config.json
